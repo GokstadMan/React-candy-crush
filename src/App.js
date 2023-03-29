@@ -3,10 +3,10 @@ import {useState, useEffect} from 'react'
 const width = 8;
 const candyColors =[
   "blue",
-  "green",
+  "aqua",
   "yellow",
   "red",
-  "purple",
+  "pink",
   "orange"
 ]
 
@@ -23,6 +23,8 @@ const App = () => {
           }
       }
     }
+
+    
 
     const createBoard = () => {
       const randomColorArrangement = [];
