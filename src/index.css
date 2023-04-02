@@ -14,3 +14,12 @@
   width: 70px;
   height: 70px;
 }
+
+body{
+  background-color: black;
+}
+
+h2{
+  text-align: center;
+  color: aqua;
+}

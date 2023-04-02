@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import ScoreBoard from "./components/ScoreBoard";
 
 import blank from "./images/blank.png";
-import blueCandy from "./images/blue-candy.png";
+import blueCandy from "./images/Milla-bilde.png";
 import greenCandy from "./images/green-candy.png";
 import orangeCandy from "./images/orange-candy.png";
 import purpleCandy from "./images/purple-candy.png";
